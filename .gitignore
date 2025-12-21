@@ -8,7 +8,3 @@ Thumbs.db
 
 .env
 .env.*
-
-.cache/
-.tmp/
-temp/
