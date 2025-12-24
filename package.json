@@ -1,0 +1,33 @@
+{
+  "name": "kreaz-portfolio",
+  "version": "2.0.0",
+  "description": "Modern and responsive personal portfolio website for Kreaz",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8000 -o",
+    "dev": "npx live-server --port=8000",
+    "build": "echo 'No build step required - static site'",
+    "deploy": "echo 'Deploy to your preferred hosting service'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theKREAZ/personal-website.git"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-website",
+    "front-end",
+    "developer",
+    "modern-design",
+    "responsive",
+    "glassmorphism"
+  ],
+  "author": "Kreaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theKREAZ/personal-website/issues"
+  },
+  "homepage": "https://github.com/theKREAZ/personal-website#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
