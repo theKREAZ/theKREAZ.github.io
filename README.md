@@ -1,8 +1,9 @@
-Personal Website
+# Personal Website
 
-Personal portfolio website built with plain HTML, CSS, and JavaScript.
+A personal portfolio website built with plain HTML, CSS, and JavaScript.  
 Designed as a simple, fast, and responsive one-page site.
 
-Stack
-
-HTML, CSS, JavaScript
+## Stack
+- HTML
+- CSS
+- JavaScript
